@@ -1,0 +1,12 @@
+body{
+	background-color: #D5F5E3;
+}
+.logo img{
+	float: left;
+	width: 150px;
+	height: auto;
+}
+.main{
+	max-width: 1200px;
+	margin: auto;
+}
